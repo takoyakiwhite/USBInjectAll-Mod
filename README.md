@@ -1,3 +1,3 @@
--- by Takoyaki White --
+- by Takoyaki White
 Source by Rehabman & Sniki
 :)
