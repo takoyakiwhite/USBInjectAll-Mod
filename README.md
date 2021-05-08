@@ -1,5 +1,4 @@
 # Modified by Takoyaki White
 
-- Source by Rehabman & Sniki
-
+- This is not an official version，for the official version, please go to @Rehabman
 - :)
